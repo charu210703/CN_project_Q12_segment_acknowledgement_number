@@ -5,7 +5,6 @@ This project focuses on the design and implementation of a simplified Transmissi
 ## Requirements
 C compiler (e.g., GCC)<br/>
 Operating System with Socket Support (Linux)<br/>
-Getting Started<br/>
 ## Clone the repository:
 
 ```
