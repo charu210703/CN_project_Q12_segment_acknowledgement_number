@@ -26,12 +26,12 @@ gcc <client-filename>.c -o client
 ## Run the server:
 
 ```
-./server [Port Number]
+./server 
 ```
 ## Run the client:
 
 ```
-./client [Port Number]
+./client serveraddress
 ```
 ## Example Usage
 Open a terminal and navigate to the project directory.<br/>
